@@ -1,1 +1,1 @@
-INSERT INTO song VALUES ('Money Trees', 'Kendrick Lamar');
+INSERT INTO song VALUES ('We Cry Together', 'Kendrick Lamar');
